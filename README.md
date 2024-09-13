@@ -1,4 +1,4 @@
-# Millionaires
+# MillionairesTheGame
 
 The game based on popular TV quiz show "Who Wants to Be a Millionaire".
 
